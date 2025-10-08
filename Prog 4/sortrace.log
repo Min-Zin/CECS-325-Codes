@@ -1,0 +1,35 @@
+=======Start=======
+min
+Tue Mar 25 22:51:53 PDT 2025
+My machine has this many processors
+16
+Generating 1000000 random numbers
+Starting system sort
+
+real	0m0.641s
+user	0m0.757s
+sys	0m0.104s
+Starting my sort:
+Thread 3 swaps: 977312906
+Thread 10 swaps: 976557826
+Thread 1 swaps: 975524702
+Thread 8 swaps: 975883707
+Thread 0 swaps: 979469398
+Thread 11 swaps: 976555820
+Thread 12 swaps: 979000564
+Thread 9 swaps: 972930268
+Thread 5 swaps: 974425779
+Thread 13 swaps: 977745913
+Thread 15 swaps: 973741865
+Thread 14 swaps: 979251565
+Thread 6 swaps: 977942015
+Thread 4 swaps: 974576223
+Thread 2 swaps: 976283521
+Thread 7 swaps: 974528851
+Total swaps: 15621730923
+systemsort.out
+mysort.out
+Comparing systemsort.out to mysort.out
+All done with diff compare
+=======End=======
+Tue Mar 25 22:56:07 PDT 2025

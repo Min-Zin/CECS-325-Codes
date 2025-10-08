@@ -1,0 +1,13 @@
+Generating 1000000 random numbers
+Starting system sort
+
+real	0m0.752s
+user	0m0.892s
+sys	0m0.096s
+ 
+Starting mysort
+
+real	53m50.023s
+user	44m39.012s
+sys	0m6.625s
+1000000 1000000 7389199 mysort.out

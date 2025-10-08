@@ -1,0 +1,43 @@
+fibo(4):	5
+fibo(-1):	
+Fibo Map contents:
+0:1
+1:1
+2:2
+3:3
+4:5
+End of Fibo map
+
+fibo(6):	13
+fibo(-1):	
+Fibo Map contents:
+0:1
+1:1
+2:2
+3:3
+4:5
+5:8
+6:13
+End of Fibo map
+
+fibo(3):	3
+fibo(-1):	
+Fibo Map contents:
+0:1
+1:1
+2:2
+3:3
+4:5
+5:8
+6:13
+End of Fibo map
+
+monkey is not an integer
+fibo(9000):	Overflow error at fib(46): -1323752223
+horse is not an integer
+fibo(45):	1836311903
+fibo(47):	Overflow error at fib(46): -1323752223
+
+real	0m0.028s
+user	0m0.010s
+sys	0m0.000s
